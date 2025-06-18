@@ -45,9 +45,7 @@ const Header = () => {
                 </button>
               ))}
               <a
-                href="/resume.pdf"
-                target="_blank"
-                rel="noopener noreferrer"
+                href="/resume"
                 className="text-gray-700 hover:text-purple-600 transition-colors duration-200 capitalize font-medium"
               >
                 Resume
@@ -78,9 +76,7 @@ const Header = () => {
                 </button>
               ))}
               <a
-                href="/resume.pdf"
-                target="_blank"
-                rel="noopener noreferrer"
+                href="/resume"
                 className="block w-full text-left px-4 py-2 text-gray-700 hover:text-purple-600 hover:bg-gray-50 rounded-lg transition-colors duration-200 capitalize"
               >
                 Resume
